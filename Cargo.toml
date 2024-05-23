@@ -1,0 +1,8 @@
+[package]
+name = "nodeforge"
+description = "NodeForge is a simple application to create maelstrom nodes."
+authors = ["Rodrigo Bronzelle <bronzelle@gmail.com>"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
